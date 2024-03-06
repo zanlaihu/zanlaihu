@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zanlaihu
-- 👀 I’m interested in Front-end and design
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Front-end developer
 - 📫 Email: klaushu@outlook.com
 
 <!---
